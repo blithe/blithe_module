@@ -1,1 +1,3 @@
-module.exports = 5
+var rochers = require('rochers')
+
+module.exports = rochers

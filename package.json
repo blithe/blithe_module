@@ -1,6 +1,6 @@
 {
   "name": "blithe",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "first module",
   "main": "index.js",
   "bin": {

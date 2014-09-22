@@ -3,6 +3,9 @@
   "version": "1.0.3",
   "description": "first module",
   "main": "index.js",
+  "bin": {
+    "blithe": "bin.js"
+  },
   "scripts": {
     "test": "node test.js | tap-spec"
   },

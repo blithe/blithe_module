@@ -1,0 +1,17 @@
+{
+  "name": "blithe",
+  "version": "1.0.0",
+  "description": "first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake"
+  ],
+  "author": "blithe rocher",
+  "license": "(BSD)",
+  "dependencies": {
+    "rochers": "^1.0.0"
+  }
+}

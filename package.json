@@ -14,7 +14,9 @@
   "dependencies": {
     "rochers": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/blithe/blithe_module.git"
